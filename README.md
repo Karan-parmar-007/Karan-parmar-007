@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Karan Parmar
 
-### 🚀 AI & ML Engineer | Full-Stack Developer | Automation Enthusiast  
+### 🚀 AI & ML Engineer | Backend Developer | Automation Enthusiast  
 🔭 Currently building real-world AI products that connect APIs, data, and machine learning models into powerful web systems.  
 🌐 Portfolio: [karanparmar.in](http://karanparmar.in)
 
