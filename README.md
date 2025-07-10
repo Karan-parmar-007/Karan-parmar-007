@@ -17,16 +17,16 @@ I'm a passionate and results-driven engineer from Mumbai, India, currently worki
 Python, C, HTML, CSS, JavaScript, SQL
 
 **Web Dev & Backend:**  
-Flask, Django, Node.js, REST APIs, Selenium
+Flask, Django, Node.js, REST APIs, Selenium,  typescript
 
 **AI/ML & NLP:**  
-TensorFlow, PyTorch, Scikit-learn, OpenAI, LLaMA 2 & 3, RNN, CNN, Transformers, YOLO
+TensorFlow, PyTorch, Scikit-learn, OpenAI, LLaMA, RNN, CNN, Transformers, YOLO
 
 **Data & Analytics:**  
 Pandas, NumPy, BeautifulSoup, Matplotlib, Plotly, Vector Databases
 
 **Cloud & DevOps:**  
-AWS, DigitalOcean, Azure, Docker, GitHub Actions, CI/CD, Gunicorn, Nginx
+AWS, DigitalOcean, Docker, GitHub Actions, CI/CD, Gunicorn, Nginx
 
 **Tools & Platforms:**  
 Git, MongoDB, SQLite, Google Cloud, OpenCV, Langchain
@@ -35,7 +35,7 @@ Git, MongoDB, SQLite, Google Cloud, OpenCV, Langchain
 
 ## 💼 Experience
 
-- 🏢 **Chein Technologies** – Built scalable ML systems with real-time image recognition (YOLO), cloud deployment (Docker + AWS), and multi-platform integration (WhatsApp, Email).
+- 🏢 **Chein Technologies** – Built scalable ML systems with advance data pipelines with the help of OpenAi and LLms, cloud deployment with Ci/Cd pipelines (Github + Github Actions +Docker + Digital ocean), and multi-platform integration (WhatsApp, Email, Gcp, Web Scrapers, S3, etc).
 - 🌐 **Hire Intel** – Led team building full-stack apps, integrated OpenAI & Gemini, and developed vector-based recommender systems.
 - 🧪 **Branding Catalyst** – Fine-tuned LLMs (Llama2, Mistral, OpenOrca) and created backend systems in Flask/Django.
 - 🤖 **Freelance Projects** – Created STT + TTS chatbots, YOLO-based warehouse tracking systems, and legacy system AI integrations.
@@ -49,11 +49,12 @@ Git, MongoDB, SQLite, Google Cloud, OpenCV, Langchain
 | 💡 Project | 🚀 Description |
 |-----------|----------------|
 | **Blog AI** | AI-powered multilingual blogging with auto-content generation |
-| **Diamond Price Predictor** | Flask-based ML app to estimate diamond prices |
-| **Auto Resume Builder** | Interactive tool to generate resumes based on user input |
 | **Flipkart Scraper** | MongoDB-integrated product review extractor |
+| **Ai Data Analyst** | A Platform that automates building Machine Learning models |
+| **AI File System Assistant** | A website that creates files you want and also fetches information about them in voice and chat method |
+| **Whatsapp Chat Analyzer** | Analyzes chat of a group/private chat and give info on them |
 | **YOLO Object Tracker** | Deep SORT + YOLOv5 for real-time object tracking |
-| **Voice Bot** | STT + TTS powered AI bot using OpenAI |
+| **Voice Bot** | STT + TTS powered AI bot using OpenAI, Deepgram and Livekit to hit backend apis  |
 | **Google Map & Image Scrapers** | Automated tools to fetch visual and locational data |
 | **Vision-based Attendance** | Face recognition system to track attendance |
 | **Sign Language Detector** | Hand gesture recognition using CNNs |
@@ -74,7 +75,7 @@ Git, MongoDB, SQLite, Google Cloud, OpenCV, Langchain
 ## 🎓 Education
 
 **B.E. in Artificial Intelligence & Machine Learning**  
-Universal College of Engineering (2021 - 2025) – *Current CGPA: 8.0*
+Universal College of Engineering (2021 - 2025) – *Current CGPA: 7.97*
 
 ---
 
