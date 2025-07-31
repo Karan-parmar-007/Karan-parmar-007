@@ -2,7 +2,7 @@
 
 ### 🚀 AI & ML Engineer | Backend Developer | Automation Enthusiast  
 🔭 Currently building real-world AI products that connect APIs, data, and machine learning models into powerful web systems.  
-🌐 Portfolio: [karanparmar.in](http://karanparmar.in)
+🌐 Portfolio and live Projects: [karanparmar.in](http://karanparmar.in)
 
 ---
 
@@ -68,7 +68,8 @@ Git, MongoDB, SQLite, Google Cloud, OpenCV, Langchain
 - ✅ **Complete Django** – Udemy  
 - ✅ **Python: Beginner to Advanced** – Internshala  
 - ✅ **MERN Stack Web Dev** – Udemy  
-- ✅ **SQL** – DataCamp  
+- ✅ **SQL** – DataCamp
+- ✅ **FastApi** – Udemy  
 
 ---
 
