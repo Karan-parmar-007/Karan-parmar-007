@@ -1,93 +1,104 @@
-# 👋 Hi there! I'm Karan Parmar
+# Hi, I'm Karan Parmar 👋
 
-### 🚀 AI & ML Engineer | Backend Developer | Automation Enthusiast  
-🔭 Currently building real-world AI products that connect APIs, data, and machine learning models into powerful web systems.  
-🌐 Portfolio and live Projects: [karanparmar.in](http://karanparmar.in)
+### AI & Backend Engineer | Scalable LLM Systems | Python · FastAPI · AWS · Docker
+
+I build and deploy AI-powered backends: multi-provider LLM orchestration, async high-throughput services, speech pipelines and containerized cloud deployments. I also run my own live, self-hosted ecosystem of products (see below).
+
+🌐 **Portfolio & live projects:** [karanparmar.in](https://www.karanparmar.in)
+💼 **LinkedIn:** [karan-parmar-715ab7225](https://www.linkedin.com/in/karan-parmar-715ab7225/)
+📫 **Email:** karan.ai.engineer@gmail.com
 
 ---
 
 ## 🧠 About Me
-I'm a passionate and results-driven engineer from Mumbai, India, currently working as a **Software Developer Intern** at Chein Technologies. I specialize in building scalable AI systems, integrating large language models (LLMs), and crafting end-to-end web applications using Python, Flask, Node.js, and modern cloud tools. With a strong background in both machine learning and full-stack development, I turn complex technical ideas into polished, production-ready software.
+
+AI/ML Engineer from Mumbai, India with 2+ years of experience, currently a **Software Engineer at Quralyst**. My work centers on:
+
+- **LLM systems:** multi-provider orchestration with dynamic routing, RAG, fine-tuning (Llama, Mistral), and self-hosted inference
+- **Backend engineering:** FastAPI / Django / Flask services, async processing, microservices, SSO and authentication
+- **Deployment:** Docker, AWS (EC2, ECR, S3), CI/CD, Nginx, and VPS hosting
+
+---
+
+## 🚀 Live Projects
+
+| Project | What it is |
+|---------|-----------|
+| **[Studio](https://studio.karanparmar.in)** | AI product suite on one API key (web, Windows, Android, Linux). Includes **WhisperFlow** (Hindi/English/Hinglish speech-to-text with LLM cleanup), a chat powered by a **self-hosted Qwen 2.5 7B (Q5)** served as a microservice from an Oracle Cloud VPS, and a Google Maps lead scraper with per-user quotas |
+| **[Centralized SSO](https://auth.karanparmar.in)** | Single sign-on service: one login across all my platforms and subdomains |
+| **[Family OS](https://familyos.karanparmar.in)** | Multi-tenant household finance platform with expense tracking, secure document storage and natural-language queries via MCP |
+| **Discord AI Coding Hub** | Python bot that controls local AI coding agents (Claude Code, Cursor, Antigravity) from Discord, with isolated per-thread sessions, parallel task locking, a guarded Git/GitHub automation layer, PM2-managed dev servers and Tailscale private networking |
+
+<!-- Add the Discord AI Coding Hub repo link in the table above once it is public -->
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Python, C, HTML, CSS, JavaScript, SQL
+**Languages:** Python, JavaScript, TypeScript, SQL, C, HTML, CSS
 
-**Web Dev & Backend:**  
-FastApi, Flask, Django, Node.js, REST APIs, Selenium,  typescript
+**Backend & APIs:** FastAPI, Flask, Django, Node.js, REST APIs, Microservices, Asynchronous Processing, SSO / Authentication, Selenium
 
-**AI/ML & NLP:**  
-TensorFlow, PyTorch, Scikit-learn, OpenAI, LLaMA, RNN, CNN, Transformers, YOLO
+**GenAI & ML:** LLM Orchestration, RAG, LangChain, OpenAI & Gemini APIs, LLM Fine-Tuning (Llama 2, Mistral, Open Orca), Self-Hosted LLM Inference (Qwen, llama.cpp), Vector Databases, STT/TTS, TensorFlow, PyTorch, Scikit-learn, Transformers, OpenCV, YOLO
 
-**Data & Analytics:**  
-Pandas, NumPy, BeautifulSoup, Matplotlib, Plotly, Vector Databases
+**Data & Analytics:** Pandas, NumPy, BeautifulSoup, Matplotlib, Plotly
 
-**Cloud & DevOps:**  
-AWS, DigitalOcean, Docker, GitHub Actions, CI/CD, Gunicorn, Nginx, Uvicorn
+**Cloud & DevOps:** AWS (EC2, ECR, S3), Docker, GitHub Actions, CI/CD, DigitalOcean, Oracle Cloud, Google Cloud, Nginx, Gunicorn, Uvicorn, PM2, Linux
 
-**Tools & Platforms:**  
-Git, MongoDB, SQLite, Google Cloud, OpenCV, Langchain, etc
+**Databases & Tools:** MongoDB (Atlas), PostgreSQL, SQLite, Git
 
 ---
 
 ## 💼 Experience
 
-- 🏢 **Qallify.Ai** - Building auto calling agents using OpenAi, ElevenLabs and Fastapi, turning data into useful insights and deploying systems, Improving code quality and leveraging Ai for fast development and resultss.
-- 🏢 **Chein Technologies** – Built scalable ML systems with advance data pipelines with the help of OpenAi and LLms, cloud deployment with Ci/Cd pipelines (Github + Github Actions +Docker + Digital ocean), and multi-platform integration (WhatsApp, Email, Gcp, Web Scrapers, S3, etc).
-- 🌐 **Hire Intel** – Led team building full-stack apps, integrated OpenAI & Gemini, and developed vector-based recommender systems.
-- 🧪 **Branding Catalyst** – Fine-tuned LLMs (Llama2, Mistral, OpenOrca) and created backend systems in Flask/Django.
-- 🤖 **Freelance Projects** – Created STT + TTS chatbots, YOLO-based warehouse tracking systems, and legacy system AI integrations.
-- 💻 **Web Developer (InternConnect)** – Designed and developed full-stack websites with seamless frontend/backend integration.
-- 📈 **Digital Marketing (Trading Seva)** – Boosted engagement with creative visuals, YouTube content, and full-stack campaign websites.
+- **Software Engineer, Quralyst** (Mar 2026 – Present): Built a multi-provider LLM orchestration pipeline (~8% lower cost, ~30% better accuracy) and a microservice that cut processing cost by 30%. Deploy and operate containerized services on AWS EC2 (Docker, ECR) with MongoDB Atlas.
+- **AI Engineer, Callify.ai** (Aug 2025 – Feb 2026): Built auto-calling voice agents and speech-to-text / text-to-speech services with OpenAI, ElevenLabs and FastAPI. Improved system efficiency 1.5x and cut costs 7% through backend automation; automated AWS deployments with Docker and CI/CD.
+- **Software Developer Intern, Chien Technologies** (Jan 2025 – Jul 2025): Built a finance product for freelancers and banks (50% efficiency gain), with Flask/Node.js APIs, WhatsApp and Email integrations, and CI/CD to DigitalOcean/AWS.
+- **Python Developer Intern, HireIntel** (Aug 2024 – Sep 2024): Led a Python team on full-stack apps, integrated OpenAI & Gemini, and built vector-based recommender systems.
+- **Machine Learning Intern, Branding Catalyst** (Jan 2024 – Mar 2024): Fine-tuned Llama 2, Mistral and Open Orca; built Flask/Django backends.
+- **Freelance:** STT + TTS chatbots, YOLO-based warehouse tracking and AI integrations for legacy systems.
 
 ---
 
-## 🔍 Highlight Projects
+## 🧪 More Projects
 
-| 💡 Project | 🚀 Description |
-|-----------|----------------|
-| **Blog AI** | AI-powered multilingual blogging with auto-content generation |
-| **Flipkart Scraper** | MongoDB-integrated product review extractor |
-| **Ai Data Analyst** | A Platform that automates building Machine Learning models |
-| **AI File System Assistant** | A website that creates files you want and also fetches information about them in voice and chat method |
-| **Whatsapp Chat Analyzer** | Analyzes chat of a group/private chat and give info on them |
-| **YOLO Object Tracker** | Deep SORT + YOLOv5 for real-time object tracking |
-| **Voice Bot** | STT + TTS powered AI bot using OpenAI, Deepgram and Livekit to hit backend apis  |
-| **Google Map & Image Scrapers** | Automated tools to fetch visual and locational data |
-| **Vision-based Attendance** | Face recognition system to track attendance |
+| Project | Description |
+|---------|-------------|
+| **Blog AI** | Multilingual AI blogging platform with auto-content generation and moderation guardrails |
+| **AI Data Analyst** | Platform that automates building machine learning models |
+| **AI File System Assistant** | Creates files and answers questions about them by voice and chat |
+| **Voice Bot** | STT + TTS bot using OpenAI, Deepgram and LiveKit that calls backend APIs |
+| **Scrapers** | Selenium scrapers for Flipkart (MongoDB-backed review extractor), Amazon, Google Maps, images, stocks and job portals |
+| **YOLO Object Tracker** | Deep SORT + YOLOv5 real-time object tracking |
+| **Vision-based Attendance** | Face recognition attendance system |
 | **Sign Language Detector** | Hand gesture recognition using CNNs |
+| **WhatsApp Chat Analyzer** | Insights from group and private chats |
+| **Credit Card Fraud Detection, Diamond Price Prediction, Grammar Correction, Food Calorie Tracker** | Applied ML and web apps |
 
 ---
 
 ## 🏆 Certifications
 
-- ✅ **Data Science Mastery** – PwSkills (ML, DL, NLP, Kafka, Flask)
-- ✅ **Data Science Workshop** – SAP Labs (Code Unnati)
-- ✅ **Complete Django** – Udemy  
-- ✅ **Python: Beginner to Advanced** – Internshala  
-- ✅ **MERN Stack Web Dev** – Udemy  
-- ✅ **SQL** – DataCamp
-- ✅ **FastApi** – Udemy  
+- ✅ **AWS Certified Cloud Practitioner** (CLF-C02)
+- ✅ **AWS Certified AI Practitioner**
+- ✅ **Data Science Mastery**, PW Skills (ML, DL, NLP, Kafka, Flask)
+- ✅ **Data Science Workshop**, SAP Labs (Code Unnati)
+- ✅ **Complete Django** and **FastAPI** and **MERN Stack**, Udemy
+- ✅ **SQL**, DataCamp · **Python: Beginner to Advanced**, Internshala
 
 ---
 
 ## 🎓 Education
 
-**B.E. in Artificial Intelligence & Machine Learning**  
-Universal College of Engineering (2021 - 2025) – *Current CGPA: 7.97*
+**B.E. in Artificial Intelligence & Machine Learning** (Honours in Data Science)
+Universal College of Engineering (2021 – 2025), CGPA 7.97
 
 ---
 
-## 🌍 Let's Connect!
+## 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/karan-parmar-715ab7225)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Karan-parmar-007)  
-📫 karanparmar00014@gmail.com  
-🌐 [karanparmar.in](http://karanparmar.in)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/karan-parmar-715ab7225)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Karan-parmar-007)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A192F?style=flat-square&logo=googlechrome&logoColor=white)](https://www.karanparmar.in)
 
----
-
-> 💬 *“Building systems that think, speak, and automate—one AI model at a time.”*
+> *"Building systems that think, speak, and automate, one AI model at a time."*
